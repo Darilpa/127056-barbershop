@@ -3,7 +3,8 @@ body {
 	line-height: 24px;
 	color: #000000;
 	width: 1200px;
-	background-image: url(../img/background2.jpg);
+	background-image: url(../img/bg_main.jpg);
+	background-repeat: repeat;
 	margin: 0 auto;
 }
 
@@ -127,8 +128,6 @@ footer {
 }
 
 main {
-	background-image: url(../img/bg_main.jpg);
-	background-repeat: repeat;
 	width: 1200px;
 	padding-top: 45px;
 }
@@ -216,4 +215,16 @@ main {
 
 .description p {
 	margin-top: 45px
+}
+
+.select-left-form-vendors {
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+
+.select-left-form-types {
+	margin: 0;
+	padding: 0;
+	list-style: none;
 }
