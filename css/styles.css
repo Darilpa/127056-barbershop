@@ -134,6 +134,7 @@ main {
 
 .breadcrumbs li {
 	display: inline-block;
+	vertical-align: middle;
 	padding-right: 40px;
 }
 
